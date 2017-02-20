@@ -51,9 +51,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: 
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -89,11 +89,11 @@ service-worker: true
 
 # Friends
 friends: [
-    # {
-    #     title: "",
-    #     href: ""
-    # },{
-    #     title: "",
-    #     href: ""
-    # }
+    {
+        title: "红新学姐",
+        href: "lihongxin.com"
+    },{
+        title: "渣滓康",
+        href: "github.com/yangzikang"
+    }
 ]
